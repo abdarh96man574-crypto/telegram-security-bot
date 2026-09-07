@@ -1,0 +1,12 @@
+{
+  "name": "telegram-security-bot",
+  "version": "1.0.0",
+  "description": "بوت تيليجرام للأدوات الأمنية والسيبرانية",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python bot.py"
+  },
+  "keywords": ["telegram", "bot", "security", "cybersecurity"],
+  "author": "abdarh96man574-crypto",
+  "license": "MIT"
+}
